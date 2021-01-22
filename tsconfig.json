@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "lib": ["ES2019"],
     "module": "commonjs",
     "esModuleInterop": true,
     "target": "es6",
@@ -18,5 +19,4 @@
     }
   },
   "include": ["src/**/*"],
-  "lib": ["es2019"]
 }
